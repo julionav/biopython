@@ -27,7 +27,7 @@
    :alt: The Biopython Project
    :target: https://biopython.org
 
-Biopython README file - BRIAN IS A NERD
+Biopython README file
 =====================
 
 The Biopython Project is an international association of developers of freely
