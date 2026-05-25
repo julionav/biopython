@@ -14,7 +14,7 @@ pull request, please explicitly state that you agree to your contributions
 being dual licensed under *both* our original "Biopython License Agreement"
 and the more widely used "3-Clause BSD License" (see our LICENSE file for more
 details).
-
+Brian is great
 
 Git Usage
 ---------
