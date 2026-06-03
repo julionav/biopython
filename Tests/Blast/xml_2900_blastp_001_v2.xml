@@ -5,7 +5,7 @@
     xs:schemaLocation="http://www.ncbi.nlm.nih.gov http://www.ncbi.nlm.nih.gov/data_specs/schema_alt/NCBI_BlastOutput2.xsd"
 >
 <BlastOutput2>
-  <report>
+  <report>ss
     <Report>
       <program>blastp</program>
       <version>BLASTP 2.9.0+</version>
