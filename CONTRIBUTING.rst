@@ -6,7 +6,7 @@ http://biopython.org/wiki/Contributing for a general overview about
 contributing - this file is primarily concerned with the practicalities.
 
 
-Licensing
+Licensinggggg
 ---------
 
 Biopython is moving towards dual licensing the code. In your git commit and/or
